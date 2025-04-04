@@ -1,5 +1,9 @@
 # Water Wire Finder
 
+<p align="center">
+  <img src="example.jpg" alt="GOLEM Interface" width="600">
+</p>
+
 The **Water Wire Finder** VMD plugin offers a streamlined tool for identifying and visualizing hydrogen-bonding networks between atom groups. Using advanced graph-based algorithms, it maps hydrogen bond networks in water molecules and employs shortest path algorithms to determine connectivity between specified atom groups.
 
 ## Applications
